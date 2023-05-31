@@ -59,10 +59,22 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
+
+<p dir="auto"> 
+ <em>
+  Projeto desenvolvido utilizando os conhecimentos adquiridos durante meu V periodo de formação do Curso de <strong> GTI </strong>
+  na disciplina de Visualização de dados do <a href="https://www.ifsudestemg.edu.br/muriae"> <strong> IF Sudeste MG </strong></a>
+ </em>  ❤️💚💚
+</p>
+
+
+
+
+
+
+
